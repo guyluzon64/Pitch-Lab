@@ -16,7 +16,7 @@ PitchLab is preparing a **free, invitation-only closed beta**. The beta is **not
 
 **Registration link — ** (https://docs.google.com/forms/d/e/1FAIpQLSfLi4yWDYLnSig5TSiR0Mjir2EllGWryFnjp4EgvKJ1OkrKwg/viewform?usp=publish-editor)
 
-The registration link will be added before the announcement. No release date is announced.
+
 
 ## 1. Start with your save
 
