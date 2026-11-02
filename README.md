@@ -14,7 +14,7 @@ PitchLab turns those priorities into a personalized player ranking. Define who q
 
 PitchLab is preparing a **free, invitation-only closed beta**. The beta is **not publicly available yet**; access will be offered by invitation.
 
-**Registration link — ** (https://docs.google.com/forms/d/e/1FAIpQLSfLi4yWDYLnSig5TSiR0Mjir2EllGWryFnjp4EgvKJ1OkrKwg/viewform?usp=publish-editor)
+**[Join the free closed beta waitlist](https://docs.google.com/forms/d/e/1FAIpQLSfLi4yWDYLnSig5TSiR0Mjir2EllGWryFnjp4EgvKJ1OkrKwg/viewform)**
 
 
 
