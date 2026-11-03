@@ -1,0 +1,33 @@
+title: "[Beta feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping shape PitchLab! Use this space for suggestions, questions, and general impressions.
+
+        **Please protect your privacy:** This discussion is public. Do not post an FM save, private player data, user paths, logs, or unredacted screenshots. For sensitive reports, reply privately to your beta invitation email. For defects, use the Bug Report issue form instead.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type of feedback
+      options:
+        - Suggestion or improvement
+        - Question
+        - General beta experience
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your feedback
+      description: Share what worked, what was confusing, or what you would like to see next. Avoid private details.
+      placeholder: "It would be helpful if PitchLab could..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I have not included any FM save, logs, private player data, personal paths, or unredacted screenshots.
+          required: true
