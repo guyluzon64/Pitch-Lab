@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General beta feedback and suggestions
+    url: https://github.com/guyluzon64/Pitch-Lab/discussions
+    about: Use Discussions for ideas, questions, and feedback. Never publish saves, logs, or private player data.
